@@ -1,0 +1,75 @@
+city,town,neighborhood,weighted_mean_life_expectancy
+Bridgeport,Bridgeport,Black Rock,80.6
+Bridgeport,Bridgeport,Brooklawn-St. Vincent,79.4
+Bridgeport,Bridgeport,Downtown,73.4
+Bridgeport,Bridgeport,East End,76.3
+Bridgeport,Bridgeport,East Side,76
+Bridgeport,Bridgeport,Enterprise,75.9
+Bridgeport,Bridgeport,Hollow,75.7
+Bridgeport,Bridgeport,Mill Hill,76.2
+Bridgeport,Bridgeport,North End,79.1
+Bridgeport,Bridgeport,Reservoir-Whiskey Hill,80.3
+Bridgeport,Bridgeport,South End,79
+Bridgeport,Bridgeport,Upper East Side,75.7
+Bridgeport,Bridgeport,West End-West Side,75.5
+Hartford,Hartford,Asylum Hill,79.5
+Hartford,Hartford,Barry Square,77.8
+Hartford,Hartford,Behind the Rocks,77.8
+Hartford,Hartford,Blue Hills,77.1
+Hartford,Hartford,Clay Arsenal,74.8
+Hartford,Hartford,Downtown,81.2
+Hartford,Hartford,Frog Hollow,75.7
+Hartford,Hartford,Northeast,76.1
+Hartford,Hartford,Parkville,73.7
+Hartford,Hartford,Sheldon Charter Oak,76.6
+Hartford,Hartford,South End & South Meadows,78.2
+Hartford,Hartford,South Green,71.9
+Hartford,Hartford,Southwest,78.3
+Hartford,Hartford,Upper Albany,76.9
+Hartford,Hartford,West End,76.6
+Hartford,West Hartford,Bishops Corner West,83.5
+Hartford,West Hartford,Buena Vista,83.1
+Hartford,West Hartford,Corbins Corner,81.9
+Hartford,West Hartford,Elizabeth Park,86.2
+Hartford,West Hartford,Farmington East,83.6
+Hartford,West Hartford,Golf Acres,80.7
+Hartford,West Hartford,Kennedy Park,79.9
+Hartford,West Hartford,Mountain West,81.4
+Hartford,West Hartford,New Park,80
+Hartford,West Hartford,Rockledge,83.1
+Hartford,West Hartford,West Hartford Center,83.1
+New Haven,New Haven,Amity,77
+New Haven,New Haven,Annex,80.4
+New Haven,New Haven,Beaver Hills,75.4
+New Haven,New Haven,Dixwell,73.2
+New Haven,New Haven,Downtown,78.8
+New Haven,New Haven,Dwight,78
+New Haven,New Haven,East Rock,82.9
+New Haven,New Haven,East Shore,80.7
+New Haven,New Haven,Edgewood,77.9
+New Haven,New Haven,Fair Haven,78.1
+New Haven,New Haven,Fair Haven Heights,75
+New Haven,New Haven,Hill,75.6
+New Haven,New Haven,Newhallville,71.7
+New Haven,New Haven,Prospect Hill,82.3
+New Haven,New Haven,Quinnipiac Meadows,81.6
+New Haven,New Haven,West River,74.6
+New Haven,New Haven,West Rock,78.2
+New Haven,New Haven,Westville,83.8
+New Haven,New Haven,Wooster Square,83.5
+Stamford,Stamford,Belltown,81.5
+Stamford,Stamford,Cove-East Side,81.3
+Stamford,Stamford,Downtown,81.2
+Stamford,Stamford,Glenbrook,81.2
+Stamford,Stamford,Newfield,81.5
+Stamford,Stamford,North Stamford,86.1
+Stamford,Stamford,Palmers Hill,85.4
+Stamford,Stamford,Ridgeway,84.1
+Stamford,Stamford,Roxbury,85.4
+Stamford,Stamford,Shippan,84.2
+Stamford,Stamford,South End,78.1
+Stamford,Stamford,Springdale,81.8
+Stamford,Stamford,Turn Of River,83.6
+Stamford,Stamford,Waterside,79.1
+Stamford,Stamford,West Side,78.1
+Stamford,Stamford,Westover,85.4
